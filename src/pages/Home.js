@@ -1,5 +1,5 @@
 import React from 'react'
-import { AppsIcon } from '@mui/material';
+import AppsIcon from '@mui/icons-material/Apps';
 import { Avatar } from '@mui/material';
 
 function Home() {
