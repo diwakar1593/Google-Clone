@@ -2,7 +2,7 @@ import React from 'react'
 import AppsIcon from '@mui/icons-material/Apps';
 import { Avatar } from '@mui/material';
 import "./Home.css";
-import { Search } from './Search.js';
+import Search from './Search.js';
 function Home() {
     return (
         <div className="home">
