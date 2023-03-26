@@ -1,4 +1,6 @@
 import React from 'react'
+import { AppsIcon } from '@mui/material';
+import { Avatar } from '@mui/material';
 
 function Home() {
     return (
@@ -12,6 +14,8 @@ function Home() {
                 <div className="home__headerRight">
                     <p>Gmail</p>
                     <p>Images</p>
+                    <AppsIcon/>
+                    <Avatar/>
                 </div>
             </div>
         </div>
