@@ -8,8 +8,8 @@ function Home() {
         <div className="home">
             <div className="home__header">
                 <div className="home__headerLeft">
-                    <p><a href="#">About</a></p>
-                    <p><a href="#">Store</a></p>
+                    <p><a href = "#">About</a></p>
+                    <p><a href = "#">Store</a></p>
                 </div>
 
                 <div className="home__headerRight">
